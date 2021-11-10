@@ -1,0 +1,6 @@
+name: Custom 1
+type: module
+package: 'Custom'
+core: 8.x
+dependencies:
+  - drupal:examples

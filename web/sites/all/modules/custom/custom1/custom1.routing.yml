@@ -1,0 +1,7 @@
+custom1.page:
+  path: '/custom1/page'
+  defaults:
+    _controller: '\Drupal\custom1\Controller\CustomModuleController::render'
+    _title: 'Custom1 page'
+  requirements:
+    _permission: 'access content'
